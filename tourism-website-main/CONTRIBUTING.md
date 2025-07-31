@@ -61,11 +61,3 @@
     Give sample code if you can.
     Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
     
-# Contributing
-
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://anushka-513.github.io/Tourism-Website/blob/main/CODE_OF_CONDUCT.md).
-
-# License
-
-    By contributing, you agree that your contributions will be licensed under its MIT License.
